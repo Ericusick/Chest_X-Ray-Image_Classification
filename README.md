@@ -24,3 +24,6 @@ This is a normal picture of an x ray image of lungs without pneumonia:
 
 This is an image of lungs with pneumonia from our data set:
 
+
+![alt text](https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/pneumonia.jpg)
+
