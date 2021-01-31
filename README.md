@@ -15,4 +15,6 @@ Given the dataset from Kaggle, the team are expected to:
 
 ## Exploratory Data Analysis
 
+This is a normal picture of an x ray image of lungs without pneumonia:
+
 ![title](Pictures for non-technical/normal.jpeg)
