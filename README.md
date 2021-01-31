@@ -20,7 +20,7 @@ X-ray of a patient with normal lungs:
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/normal.jpeg?raw=true" width="400" height="400" />
 
-TX-ray of a patient with pneumonia:
+X-ray of a patient with pneumonia:
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/pneumonia.jpg" width="400" height="400" />
 
@@ -68,7 +68,7 @@ __Final model results:__
 
 - Validation Loss: 0.1840
 
-Our accuracy is good in this model but with more training data, tweaking the layers, and messing with other parameters to get our validation loss lower but due to time restraints we were unable to achieve it. Also our validation set was small which can be a reason why it looks inconsistent on the graph, adding more validation data could solve this issue and it would help get a clearer picture of how this model is performing.  
+Our accuracy is good in this model but with more training data, tweaking the layers, and messing with other parameters to get our validation loss lower but due to time restraints we were unable to achieve it. Also our validation set was small which can be a reason why it looks inconsistent on the graph, adding more validation data could solve this issue and it may help gain a clearer picture of how this model is performing.  
 
 ---
 
