@@ -68,7 +68,28 @@ __Final model results:__
 
 - Validation Loss: 0.1840
 
-Our accuracy is good in this model but with more training data and tweaking the layers and parameters or adding more data with a data augmenter we would like to get our validation loss lower but due to time restraints we could not do that. Aslo our validation set was small that is why it looks so inconsistent on the graph so adding more validation data would help get a clearer picture of how this model is performing.       
+Our accuracy is good in this model but with more training data and tweaking the layers and parameters or adding more data with a data augmenter we would like to get our validation loss lower but due to time restraints we could not do that. Aslo our validation set was small that is why it looks so inconsistent on the graph so adding more validation data would help get a clearer picture of how this model is performing.  
+
+---
+
+## Recommendations and Future Work 
+
+Looking at the model, we would recommend:
+
+We would recommend radiologist to use this as a supplementary tool to speed up the diagnostic process and as a secondary opinion.
+
+### Future Work:
+
+- Get more data for the validation set to gain a better/realistic model accuracy.
+
+- Trying/explore different parameters and layers for the neural network modeling.
+
+- Create more unique images by augmenting some of given data to give the machine more data to train from
+
+
+
+
+
 
 
 
