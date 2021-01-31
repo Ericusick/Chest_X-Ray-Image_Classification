@@ -26,7 +26,7 @@ This is an image of lungs with pneumonia from our data set as you can she it is 
 
 ### Data Imbalance
 
-Upon further inspection of the datasets we found that there is a severe class imbalance within the train set and test set. Where the images of pneumonia is over saturated in comparison to the normal cases. Which can result in skew result from the image classification models.
+Upon further inspection of the datasets we found that there is a severe class imbalance within the train set and test set. Where the images of pneumonia is over saturated in comparison to the normal cases. Which can skew the results for our image classification models.
 
 __Train Set: Skewed in the direction of pneumonia __
 
