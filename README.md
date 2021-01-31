@@ -28,19 +28,19 @@ This is an image of lungs with pneumonia from our data set as you can she it is 
 
 Upon further inspection of the datasets we found that there is a severe class imbalance within the train set and test set. Where the images of pneumonia is over saturated in comparison to the normal cases. Which can result in skew result from the image classification models.
 
-__Train Set:__
+__Train Set: Skewed in the direction of pneumonia __
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Test%20Imbalance.PNG" width="400" height="400" />
 
-__Test Set:__
+__Test Set: Skewed in the direction of pneumonia__
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Train%20Imbalance.PNG" width="400" height="400" />
 
-__Validation Set:__
+__Validation Set: Balanced__
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Val%20Imbalance.PNG" width="400" height="400" />
 
-This is interesting to remember when we look at the training accuracy because we have to keep in mind that if the machine just predicts pneumonia the accuracy will actually be fairly high so our validation accuracy is one of the most important metrics because that data is balanced. 
+This was good to keep in mind when we made our models. If we look at the training acuracy of our models and it is high it could be achived but just predicting pneumonia everytime. So , puting more weight on the normal images wwill help to give more impotance and balnce out the data in our models.  
 
 ## Modeling Process for CNN
 
