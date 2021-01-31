@@ -17,4 +17,4 @@ Given the dataset from Kaggle, the team are expected to:
 
 This is a normal picture of an x ray image of lungs without pneumonia:
 
-![title](Pictures for non-technical/normal.jpeg)
+![title](https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/normal.jpeg?raw=true)
