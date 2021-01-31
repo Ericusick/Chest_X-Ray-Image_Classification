@@ -40,7 +40,7 @@ __Validation Set__
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Val%20Imbalance.PNG" width="400" height="400" />
 
-This is good to keep in mind when we make our models. Without changes to the class imbalance the model could be high in accuracy but it would favor by predicting just pneumonia at every images. We gave the normal cases more weight to help gain equality in class balance for the final modeling process.  
+This is good to keep in mind when we make our models. Without changes to the class imbalance, the model could be high in accuracy however the machine may be more likely to predict every images it sees as positive for pneumonia. We gave the normal cases more weight to help gain equality in class balance for the final modeling process.  
 
 ## Modeling Process for CNN
 
@@ -68,7 +68,7 @@ __Final model results:__
 
 - Validation Loss: 0.1840
 
-Our accuracy is good in this model but with more training data, tweaking the layers, and messing with other parameters to get our validation loss lower but due to time restraints we were unable to achieve it. Also our validation set was small which can be a reason why it looks inconsistent on the graph, adding more validation data could solve this issue and it may help gain a clearer picture of how this model is performing.  
+Our accuracy is good in this model but with more training data, tweaking the layers, and messing with other parameters, we can lower the validation loss but due to time time constraint we were unable to achieve it. Also our validation set was small which can be a reason why the graphs looks inconsistent, to fix this issue we may want to add more validation data/images to solve this issue. In return, paint a clearer performance of the model.
 
 ---
 
@@ -76,7 +76,7 @@ Our accuracy is good in this model but with more training data, tweaking the lay
 
 Looking at the model, we would recommend:
 
-We would recommend radiologist to use this as a supplementary tool to speed up the diagnostic process and as a secondary opinion.
+We would recommend the radiologist to use this as a supplementary tool to speed up the diagnostic process and it can be use as a secondary opinion.
 
 ### Future Work:
 
