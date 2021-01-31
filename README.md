@@ -68,7 +68,7 @@ __Final model results:__
 
 - Validation Loss: 0.1840
 
-Our accuracy is good in this model but with more training data and tweaking the layers and parameters or adding more data with a data augmenter we would like to get our validation loss lower but due to time restraints we could not do that.  
+Our accuracy is good in this model but with more training data and tweaking the layers and parameters or adding more data with a data augmenter we would like to get our validation loss lower but due to time restraints we could not do that. Aslo our validation set was small that is why it looks so inconsistent on the graph so adding more validation data would help get a clearer picture of how this model is performing.       
 
 
 
