@@ -13,3 +13,6 @@ Given the dataset from Kaggle, the team are expected to:
 
 - High accuracy
 
+## Exploratory Data Analysis
+
+!(Pictures for non-technical/normal.jpeg)
