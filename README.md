@@ -20,6 +20,24 @@ This is a normal picture of an x ray image of lungs without pneumonia:
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/normal.jpeg?raw=true" width="400" height="400" />
 
-This is an image of lungs with pneumonia from our data set:
+This is an image of lungs with pneumonia from our data set as you can she it is much more cloudy than the normal:
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/pneumonia.jpg" width="400" height="400" />
+
+### Data Imbalance
+
+Upon further inspection of the datasets we found that there is a severe class imbalance within the train set and test set. Where the images of pneumonia is over saturated in comparison to the normal cases. Which can result in skew result from the image classification models.
+
+train set:
+
+<img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Test%20Imbalance.PNG" width="400" height="400" />
+
+Test set:
+
+<img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Train%20Imbalance.PNG" width="400" height="400" />
+
+Validation set:
+
+<img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Val%20Imbalance.PNG" width="400" height="400" />
+
+
