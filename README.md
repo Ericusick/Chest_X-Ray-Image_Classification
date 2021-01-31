@@ -15,4 +15,4 @@ Given the dataset from Kaggle, the team are expected to:
 
 ## Exploratory Data Analysis
 
-!(Pictures for non-technical/normal.jpeg)
+![title](Pictures for non-technical/normal.jpeg)
