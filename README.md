@@ -28,11 +28,11 @@ This is an image of lungs with pneumonia from our data set as you can she it is 
 
 Upon further inspection of the datasets we found that there is a severe class imbalance within the train set and test set. Where the images of pneumonia is over saturated in comparison to the normal cases. Which can skew the results for our image classification models.
 
-__Train Set: Skewed in the direction of pneumonia __
+__Train Set: Skewed In The Direction of Pneumonia__
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Test%20Imbalance.PNG" width="400" height="400" />
 
-__Test Set: Skewed in the direction of pneumonia__
+__Test Set: Skewed In The Direction of Pneumonia__
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Train%20Imbalance.PNG" width="400" height="400" />
 
