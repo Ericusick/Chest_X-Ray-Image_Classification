@@ -56,7 +56,7 @@ This is interesting to remember when we look at the training accuracy because we
 
 ### Final CNN Model
 
-<img align="right" width="500" height="750" src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Final%20CNN%20Graphs.PNG">
+<img align="right" width="300" height="400" src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Final%20CNN%20Graphs.PNG">
 
 __Final model results:__
 
@@ -83,7 +83,7 @@ __Final model results:__
 
 
 
-hello
+
 
 
 
