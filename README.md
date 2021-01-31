@@ -55,13 +55,14 @@ This is interesting to remember when we look at the training accuracy because we
 - Created multiple layers for the neural networks.
 
 ### Final CNN Model
+
+<img align="right" width="100" height="100" src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Final%20CNN%20Graphs.PNG">
+
 __Final model results:__
 - Training Accuracy: 99.56%
 - Training Loss: 0.0191
 - Validation Accuracy: 93.75%
 - Validation Loss: 0.1840
-<img align="right" width="100" height="100" src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Final%20CNN%20Graphs.PNG">
-
 
 
 
