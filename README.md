@@ -18,10 +18,8 @@ Given the dataset from Kaggle, the team are expected to:
 
 This is a normal picture of an x ray image of lungs without pneumonia:
 
-<img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/normal.jpeg?raw=true" width="200" height="200" />
+<img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/normal.jpeg?raw=true" width="400" height="400" />
 
 This is an image of lungs with pneumonia from our data set:
 
-
-![alt text](https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/pneumonia.jpg)
-
+<img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/pneumonia.jpg" width="400" height="400" />
