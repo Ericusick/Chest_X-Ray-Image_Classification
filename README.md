@@ -60,7 +60,7 @@ __Final model results:__
 - Training Loss: 0.0191
 - Validation Accuracy: 93.75%
 - Validation Loss: 0.1840
-<img align="left" width="100" height="100" src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Final%20CNN%20Graphs.PNG">
+<img align="right" width="100" height="100" src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Final%20CNN%20Graphs.PNG">
 
 
 
