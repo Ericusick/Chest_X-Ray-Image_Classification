@@ -56,7 +56,7 @@ This is interesting to remember when we look at the training accuracy because we
 
 ### Final CNN Model
 
-<img align="right" width="300" height="400" src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Final%20CNN%20Graphs.PNG">
+<img align="right" src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Final%20CNN%20Graphs.PNG">
 
 __Final model results:__
 
@@ -68,6 +68,7 @@ __Final model results:__
 
 - Validation Loss: 0.1840
 
+Our accuracy is good in this model but with more training data and tweaking the layers and parameters or adding more data with a data augmenter we would like to get our validation loss lower but due to time restraints we could not do that.  
 
 
 
