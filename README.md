@@ -2,7 +2,7 @@
 
 ## Itroduction 
 
-In this project we take in a data set with images of chest x-rays with people with and without pneumonia. We performed Image classification using neural networks and convolutional neural networks (CNN). We first built a baseline model with a traditional neural network then improved upon it using a CNN for our final model.  
+In this project we take in a data set with images of chest x-rays with people with and without pneumonia. We performed Image classification using neural networks and convolutional neural networks (CNN). We first built a baseline model with a traditional neural network. Then improved upon it using CNN for our final model.  
 
 ## Business Case
 
