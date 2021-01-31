@@ -28,16 +28,32 @@ This is an image of lungs with pneumonia from our data set as you can she it is 
 
 Upon further inspection of the datasets we found that there is a severe class imbalance within the train set and test set. Where the images of pneumonia is over saturated in comparison to the normal cases. Which can result in skew result from the image classification models.
 
-train set:
+__Train Set:__
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Test%20Imbalance.PNG" width="400" height="400" />
 
-Test set:
+__Test Set:__
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Train%20Imbalance.PNG" width="400" height="400" />
 
-Validation set:
+__Validation Set:__
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Val%20Imbalance.PNG" width="400" height="400" />
+
+This is interesting to remember when we look at the training accuracy because we have to keep in mind that if the machine just predicts pneumonia the accuracy will actually be fairly high so our validation accuracy is one of the most important metrics because that data is balanced. 
+
+## Modeling Process for CNN
+
+- Convert all X-ray images to grayscale so that the model will run faster and the extra colors are not very import in this data. 
+
+- Resized all of the images to 128 X 128 pixels so we have decent fedelity but it is not to many pixels for our nueral network to process. 
+
+- Created batch size for each datasets.
+
+- Gave more ‘weight’ to the Normal cases to balance the class imbalance.
+
+- Created multiple layers for the neural networks.
+
+
 
 
