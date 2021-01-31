@@ -40,7 +40,7 @@ __Validation Set: Balanced__
 
 <img src="https://github.com/Ericusick/Chest-X-Ray-Image_Classification/blob/main/Pictures%20for%20non-technical/Val%20Imbalance.PNG" width="400" height="400" />
 
-This was good to keep in mind when we made our models. If we look at the training acuracy of our models and it is high it could be achived but just predicting pneumonia everytime. So , puting more weight on the normal images wwill help to give more impotance and balnce out the data in our models.  
+This was good to keep in mind when we made our models. If we look at the training acuracy of our models and it is high it could be achived but just predicting pneumonia everytime. We put more weight on the normal images to help to give more importance and to balance out the data in our models.  
 
 ## Modeling Process for CNN
 
