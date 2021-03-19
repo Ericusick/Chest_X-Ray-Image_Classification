@@ -1,5 +1,9 @@
 # Chest-X-Ray-Image_Classification
 
+## Contributors
+- Trevor Mott
+- Eric Cusick
+
 ## Introduction 
 
 In this project we take in a dataset with images of chest x-rays that are normal and x-rays with pneumonia. We created an Image Classification model using Convolutional Neural Networks (CNN). We first built a baseline model with a traditional neural network and then improved upon it using CNN for our final model.  
