@@ -1,8 +1,8 @@
 # Chest-X-Ray-Image_Classification
 
 ## Contributors
-- Trevor Mott
 - Eric Cusick
+- Trevor Mott
 
 ## Introduction 
 
